@@ -1,0 +1,12 @@
+{
+  "raw_rows": 18812,
+  "raw_columns": 11,
+  "exact_duplicate_rows": 724,
+  "rows_after_duplicate_removal": 18088,
+  "rows_removed": 724,
+  "unique_transaction_ids": 6000,
+  "multi_line_transaction_ids": 4823,
+  "maximum_lines_in_one_transaction": 5,
+  "total_mismatches_before_correction": 0,
+  "remaining_missing_values": 0
+}

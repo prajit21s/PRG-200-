@@ -1,0 +1,166 @@
+TransactionID,Branch,City,Date,BasketValue,BasketItems
+TXN100040,Kathmandu - Kupondole,Kathmandu,2025-02-18,21485.51,10
+TXN100049,Kathmandu - Kupondole,Kathmandu,2025-12-20,18707.079999999998,12
+TXN100061,Butwal - Traffic Chowk,Butwal,2025-11-09,17195.170000000002,13
+TXN100071,Lalitpur - Pulchowk,Lalitpur,2025-12-06,18110.530000000002,18
+TXN100114,Kathmandu - Kupondole,Kathmandu,2025-03-15,17472.5,14
+TXN100138,Pokhara - Lakeside,Pokhara,2025-11-22,17618.54,15
+TXN100162,Kathmandu - New Road,Kathmandu,2025-01-23,19192.13,14
+TXN100252,Kathmandu - Kupondole,Kathmandu,2025-09-15,19500.26,17
+TXN100288,Chitwan - Bharatpur,Chitwan,2025-04-03,25873.92,12
+TXN100300,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-06,20155.23,11
+TXN100349,Kathmandu - Kupondole,Kathmandu,2025-10-20,17810.73,14
+TXN100394,Chitwan - Bharatpur,Chitwan,2025-10-06,20990.48,9
+TXN100416,Lalitpur - Pulchowk,Lalitpur,2025-07-29,16976.809999999998,17
+TXN100436,Chitwan - Bharatpur,Chitwan,2025-02-03,17110.370000000003,14
+TXN100453,Butwal - Traffic Chowk,Butwal,2025-11-30,20121.47,15
+TXN100474,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-08,17060.77,10
+TXN100483,Butwal - Traffic Chowk,Butwal,2025-10-02,17004.33,12
+TXN100503,Butwal - Traffic Chowk,Butwal,2025-03-24,18405.67,13
+TXN100509,Kathmandu - New Road,Kathmandu,2025-10-20,16940.38,13
+TXN100540,Lalitpur - Pulchowk,Lalitpur,2025-09-28,19347.8,15
+TXN100561,Chitwan - Bharatpur,Chitwan,2025-06-02,17060.91,10
+TXN100607,Butwal - Traffic Chowk,Butwal,2025-09-20,16981.34,15
+TXN100651,Butwal - Traffic Chowk,Butwal,2025-11-18,19885.940000000002,15
+TXN100690,Bhaktapur - Suryabinayak,Bhaktapur,2025-06-02,22957.309999999998,14
+TXN100777,Kathmandu - New Road,Kathmandu,2025-10-25,18728.97,9
+TXN100864,Pokhara - Lakeside,Pokhara,2025-07-03,18405.35,14
+TXN100936,Bhaktapur - Suryabinayak,Bhaktapur,2025-03-16,17312.71,13
+TXN100941,Kathmandu - New Road,Kathmandu,2025-06-20,17577.47,11
+TXN100988,Kathmandu - Kupondole,Kathmandu,2025-04-11,19003.960000000003,17
+TXN101022,Lalitpur - Pulchowk,Lalitpur,2025-07-28,16890.690000000002,13
+TXN101035,Kathmandu - Kupondole,Kathmandu,2025-11-23,18011.92,15
+TXN101039,Kathmandu - Kupondole,Kathmandu,2025-01-24,20845.170000000002,15
+TXN101044,Lalitpur - Pulchowk,Lalitpur,2025-04-23,18031.82,14
+TXN101045,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-07,17180.56,13
+TXN101086,Butwal - Traffic Chowk,Butwal,2025-01-20,19776.23,13
+TXN101094,Kathmandu - New Road,Kathmandu,2025-08-22,17092.899999999998,13
+TXN101139,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-17,19924.72,14
+TXN101380,Kathmandu - New Road,Kathmandu,2025-04-15,18793.67,12
+TXN101395,Lalitpur - Pulchowk,Lalitpur,2025-10-09,18193.01,16
+TXN101399,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-17,17258.399999999998,13
+TXN101420,Chitwan - Bharatpur,Chitwan,2025-01-12,18008.04,14
+TXN101427,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-15,16897.8,6
+TXN101560,Lalitpur - Pulchowk,Lalitpur,2025-09-03,19167.33,12
+TXN101571,Lalitpur - Pulchowk,Lalitpur,2025-05-19,16865.77,10
+TXN101630,Butwal - Traffic Chowk,Butwal,2025-02-12,21677.66,13
+TXN101667,Kathmandu - Kupondole,Kathmandu,2025-11-08,24811.34,16
+TXN101688,Butwal - Traffic Chowk,Butwal,2025-09-30,20494.300000000003,16
+TXN101694,Chitwan - Bharatpur,Chitwan,2025-10-17,23596.809999999998,13
+TXN101721,Pokhara - Lakeside,Pokhara,2025-08-12,20320.03,10
+TXN101889,Kathmandu - New Road,Kathmandu,2025-05-02,17597.02,9
+TXN101898,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-25,16954.0,12
+TXN101928,Butwal - Traffic Chowk,Butwal,2025-04-13,19759.82,14
+TXN101968,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-20,18191.420000000002,11
+TXN102004,Butwal - Traffic Chowk,Butwal,2025-05-20,17807.35,14
+TXN102013,Chitwan - Bharatpur,Chitwan,2025-11-15,17464.949999999997,15
+TXN102053,Lalitpur - Pulchowk,Lalitpur,2025-09-29,21777.92,16
+TXN102104,Lalitpur - Pulchowk,Lalitpur,2025-09-06,18925.65,9
+TXN102138,Butwal - Traffic Chowk,Butwal,2025-02-02,18239.01,7
+TXN102178,Chitwan - Bharatpur,Chitwan,2025-03-21,20103.3,12
+TXN102181,Lalitpur - Pulchowk,Lalitpur,2025-12-10,21719.6,15
+TXN102207,Butwal - Traffic Chowk,Butwal,2025-04-02,19263.87,12
+TXN102220,Kathmandu - New Road,Kathmandu,2025-11-05,26571.940000000002,14
+TXN102224,Kathmandu - New Road,Kathmandu,2025-10-08,19180.579999999998,15
+TXN102263,Butwal - Traffic Chowk,Butwal,2025-09-10,18172.5,17
+TXN102441,Kathmandu - New Road,Kathmandu,2025-11-01,20418.58,14
+TXN102661,Pokhara - Lakeside,Pokhara,2025-09-23,18142.73,11
+TXN102664,Kathmandu - Kupondole,Kathmandu,2025-06-03,24468.239999999998,18
+TXN102744,Butwal - Traffic Chowk,Butwal,2025-09-08,17139.69,11
+TXN102761,Chitwan - Bharatpur,Chitwan,2025-01-26,23592.98,18
+TXN102790,Butwal - Traffic Chowk,Butwal,2025-09-16,21044.88,15
+TXN102814,Kathmandu - New Road,Kathmandu,2025-09-23,19041.54,11
+TXN102957,Lalitpur - Pulchowk,Lalitpur,2025-10-26,20359.8,11
+TXN102966,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-14,17985.760000000002,10
+TXN103023,Butwal - Traffic Chowk,Butwal,2025-11-29,17088.05,14
+TXN103197,Kathmandu - New Road,Kathmandu,2025-09-12,25810.75,15
+TXN103208,Biratnagar - Main Road,Biratnagar,2025-08-28,18588.16,13
+TXN103223,Lalitpur - Pulchowk,Lalitpur,2025-10-29,18220.5,10
+TXN103233,Kathmandu - New Road,Kathmandu,2025-10-27,18874.43,15
+TXN103242,Pokhara - Lakeside,Pokhara,2025-08-30,18332.949999999997,16
+TXN103258,Pokhara - Lakeside,Pokhara,2025-11-20,17199.84,16
+TXN103267,Kathmandu - Kupondole,Kathmandu,2025-10-26,19806.46,17
+TXN103353,Butwal - Traffic Chowk,Butwal,2025-11-18,20144.86,13
+TXN103392,Bhaktapur - Suryabinayak,Bhaktapur,2025-06-16,19170.2,14
+TXN103543,Biratnagar - Main Road,Biratnagar,2025-02-06,19642.8,14
+TXN103610,Lalitpur - Pulchowk,Lalitpur,2025-11-01,16911.280000000002,17
+TXN103640,Bhaktapur - Suryabinayak,Bhaktapur,2025-06-27,20029.88,14
+TXN103678,Chitwan - Bharatpur,Chitwan,2025-07-07,22184.559999999998,8
+TXN103755,Lalitpur - Pulchowk,Lalitpur,2025-10-10,17151.739999999998,13
+TXN103803,Bhaktapur - Suryabinayak,Bhaktapur,2025-04-25,17212.98,6
+TXN103809,Chitwan - Bharatpur,Chitwan,2025-01-05,18957.75,13
+TXN103823,Kathmandu - New Road,Kathmandu,2025-09-17,22396.56,11
+TXN103825,Lalitpur - Pulchowk,Lalitpur,2025-07-09,17309.699999999997,11
+TXN103845,Kathmandu - Kupondole,Kathmandu,2025-09-07,20603.18,9
+TXN103950,Kathmandu - Kupondole,Kathmandu,2025-11-26,17316.58,13
+TXN103956,Lalitpur - Pulchowk,Lalitpur,2025-10-12,18919.95,14
+TXN103978,Kathmandu - Kupondole,Kathmandu,2025-05-29,17462.239999999998,8
+TXN103982,Kathmandu - New Road,Kathmandu,2025-10-23,22404.94,11
+TXN103998,Kathmandu - Kupondole,Kathmandu,2025-10-04,17685.559999999998,10
+TXN104030,Lalitpur - Pulchowk,Lalitpur,2025-07-09,19201.579999999998,15
+TXN104033,Bhaktapur - Suryabinayak,Bhaktapur,2025-02-17,25710.579999999998,14
+TXN104064,Bhaktapur - Suryabinayak,Bhaktapur,2025-09-20,23468.37,9
+TXN104100,Butwal - Traffic Chowk,Butwal,2025-12-04,16981.05,10
+TXN104136,Butwal - Traffic Chowk,Butwal,2025-10-03,19058.34,16
+TXN104156,Kathmandu - New Road,Kathmandu,2025-04-06,17288.86,14
+TXN104212,Butwal - Traffic Chowk,Butwal,2025-08-28,26591.84,12
+TXN104240,Bhaktapur - Suryabinayak,Bhaktapur,2025-07-13,19108.27,10
+TXN104277,Bhaktapur - Suryabinayak,Bhaktapur,2025-09-10,19370.9,13
+TXN104322,Lalitpur - Pulchowk,Lalitpur,2025-06-26,18672.59,11
+TXN104338,Pokhara - Lakeside,Pokhara,2025-04-14,17262.21,9
+TXN104364,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-19,17051.809999999998,11
+TXN104370,Butwal - Traffic Chowk,Butwal,2025-11-27,17424.980000000003,16
+TXN104417,Lalitpur - Pulchowk,Lalitpur,2025-12-18,19402.399999999998,10
+TXN104447,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-10,19092.27,13
+TXN104461,Lalitpur - Pulchowk,Lalitpur,2025-01-10,19859.78,13
+TXN104559,Kathmandu - Kupondole,Kathmandu,2025-08-29,16918.11,15
+TXN104581,Bhaktapur - Suryabinayak,Bhaktapur,2025-01-08,21726.19,14
+TXN104605,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-19,17899.670000000002,11
+TXN104623,Lalitpur - Pulchowk,Lalitpur,2025-09-06,17701.42,6
+TXN104628,Lalitpur - Pulchowk,Lalitpur,2025-09-11,19419.0,18
+TXN104698,Kathmandu - Kupondole,Kathmandu,2025-11-15,21253.760000000002,13
+TXN104736,Butwal - Traffic Chowk,Butwal,2025-03-10,23751.170000000002,11
+TXN104751,Bhaktapur - Suryabinayak,Bhaktapur,2025-09-19,17450.82,7
+TXN104767,Chitwan - Bharatpur,Chitwan,2025-09-09,17101.18,11
+TXN104829,Bhaktapur - Suryabinayak,Bhaktapur,2025-09-10,20172.62,14
+TXN104875,Chitwan - Bharatpur,Chitwan,2025-09-28,20395.06,17
+TXN104885,Lalitpur - Pulchowk,Lalitpur,2025-10-09,19552.51,7
+TXN104894,Kathmandu - New Road,Kathmandu,2025-08-03,18940.28,9
+TXN104946,Kathmandu - Kupondole,Kathmandu,2025-01-30,19169.760000000002,14
+TXN104965,Kathmandu - New Road,Kathmandu,2025-01-22,16925.64,13
+TXN104971,Kathmandu - New Road,Kathmandu,2025-05-18,20605.7,17
+TXN105017,Bhaktapur - Suryabinayak,Bhaktapur,2025-01-07,17588.2,16
+TXN105024,Butwal - Traffic Chowk,Butwal,2025-11-01,19147.29,10
+TXN105122,Butwal - Traffic Chowk,Butwal,2025-04-09,23426.64,11
+TXN105158,Bhaktapur - Suryabinayak,Bhaktapur,2025-04-15,17505.44,14
+TXN105190,Bhaktapur - Suryabinayak,Bhaktapur,2025-05-30,18236.96,12
+TXN105198,Butwal - Traffic Chowk,Butwal,2025-09-04,22400.82,14
+TXN105313,Bhaktapur - Suryabinayak,Bhaktapur,2025-09-30,24972.7,16
+TXN105322,Chitwan - Bharatpur,Chitwan,2025-11-28,20093.85,12
+TXN105405,Kathmandu - Kupondole,Kathmandu,2025-11-30,16884.18,13
+TXN105438,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-15,21795.85,14
+TXN105482,Kathmandu - Kupondole,Kathmandu,2025-04-06,17536.47,15
+TXN105492,Kathmandu - Kupondole,Kathmandu,2025-09-02,29352.75,18
+TXN105509,Kathmandu - Kupondole,Kathmandu,2025-11-05,17028.019999999997,13
+TXN105523,Biratnagar - Main Road,Biratnagar,2025-12-08,18108.02,13
+TXN105552,Kathmandu - Kupondole,Kathmandu,2025-10-07,18479.48,11
+TXN105575,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-18,17861.78,16
+TXN105599,Bhaktapur - Suryabinayak,Bhaktapur,2025-04-25,16921.36,13
+TXN105608,Bhaktapur - Suryabinayak,Bhaktapur,2025-08-08,16855.62,11
+TXN105609,Bhaktapur - Suryabinayak,Bhaktapur,2025-11-17,18135.62,14
+TXN105610,Lalitpur - Pulchowk,Lalitpur,2025-10-25,18866.26,12
+TXN105618,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-15,18440.0,7
+TXN105665,Kathmandu - Kupondole,Kathmandu,2025-02-24,18451.519999999997,9
+TXN105721,Biratnagar - Main Road,Biratnagar,2025-02-20,17423.03,11
+TXN105746,Kathmandu - Kupondole,Kathmandu,2025-04-14,20096.989999999998,12
+TXN105779,Biratnagar - Main Road,Biratnagar,2025-05-25,21747.89,11
+TXN105792,Kathmandu - Kupondole,Kathmandu,2025-08-23,18198.489999999998,14
+TXN105811,Bhaktapur - Suryabinayak,Bhaktapur,2025-10-07,20514.519999999997,13
+TXN105822,Pokhara - Lakeside,Pokhara,2025-06-10,19014.68,15
+TXN105832,Biratnagar - Main Road,Biratnagar,2025-02-12,20590.95,11
+TXN105874,Bhaktapur - Suryabinayak,Bhaktapur,2025-03-20,16924.12,12
+TXN105902,Butwal - Traffic Chowk,Butwal,2025-09-30,19307.04,12
+TXN105957,Biratnagar - Main Road,Biratnagar,2025-09-10,18877.84,12
+TXN105963,Butwal - Traffic Chowk,Butwal,2025-01-14,29100.51,18
+TXN105979,Kathmandu - New Road,Kathmandu,2025-02-05,21672.4,15
+TXN105981,Bhaktapur - Suryabinayak,Bhaktapur,2025-12-27,21523.569999999996,11

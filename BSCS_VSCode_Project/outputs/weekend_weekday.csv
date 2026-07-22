@@ -1,0 +1,3 @@
+DayType,NumberOfDays,TotalRevenue,AverageDailyRevenue,MedianDailyRevenue
+Weekday,261,23705495.89,90825.65475095785,78423.56
+Weekend,104,9298649.75,89410.09375,78219.73

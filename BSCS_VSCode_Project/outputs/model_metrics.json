@@ -1,0 +1,8 @@
+{
+  "model": "RandomForestRegressor",
+  "train_rows": 14470,
+  "test_rows": 3618,
+  "r2": 0.9999984178621328,
+  "mae": 1.1016792841348617,
+  "rmse": 2.739177184181438
+}
